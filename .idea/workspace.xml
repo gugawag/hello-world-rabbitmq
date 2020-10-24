@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="845f5abc-7fa3-4d28-99e6-84cc20ad61e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="12cdd480-1bcb-45d3-95cb-4b0bb3177868" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ivB2kzIQOMqh0xsrLSCBDuhbC7" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.22827685" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Produtor">
+    <configuration name="Consumidor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gugawag.pdist.Consumidor" />
+      <module name="hello-world-rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gugawag.pdist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Produtor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gugawag.pdist.Produtor" />
+      <module name="hello-world-rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gugawag.pdist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Consumidor" />
+        <item itemvalue="Application.Produtor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="845f5abc-7fa3-4d28-99e6-84cc20ad61e2" name="Default Changelist" comment="" />
+      <created>1602777980702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602777980702</updated>
+      <workItem from="1602777982710" duration="496000" />
+      <workItem from="1602778486679" duration="408000" />
+      <workItem from="1602778911317" duration="5747000" />
+      <workItem from="1602857916117" duration="592000" />
+      <workItem from="1602863292192" duration="598000" />
+      <workItem from="1603326886841" duration="573000" />
+      <workItem from="1603371180121" duration="593000" />
+      <workItem from="1603372536087" duration="595000" />
+      <workItem from="1603391616626" duration="6298000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="43" key="#Project_Structure" timestamp="1602779153735">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="208" y="43" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1602779153735" />
+    <state width="1398" height="305" key="GridCell.Tab.0.bottom" timestamp="1603484227095">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="305" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1603484227095" />
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom/1440.-113.2560.1057/0.23.1440.877@0.23.1440.877" timestamp="1603393190692" />
+    <state width="1398" height="305" key="GridCell.Tab.0.center" timestamp="1603484227093">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="305" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1603484227093" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center/1440.-113.2560.1057/0.23.1440.877@0.23.1440.877" timestamp="1603393190675" />
+    <state width="1398" height="305" key="GridCell.Tab.0.left" timestamp="1603484227092">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="305" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1603484227092" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left/1440.-113.2560.1057/0.23.1440.877@0.23.1440.877" timestamp="1603393190645" />
+    <state width="1398" height="305" key="GridCell.Tab.0.right" timestamp="1603484227094">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="305" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1603484227094" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right/1440.-113.2560.1057/0.23.1440.877@0.23.1440.877" timestamp="1603393190678" />
+    <state x="258" y="123" key="Maven.ArtifactSearchDialog" timestamp="1602779028706">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="258" y="123" key="Maven.ArtifactSearchDialog/0.23.1440.877@0.23.1440.877" timestamp="1602779028706" />
+    <state x="208" y="43" key="SettingsEditor" timestamp="1603395709736">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="208" y="43" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1603395709736" />
+  </component>
+</project>
